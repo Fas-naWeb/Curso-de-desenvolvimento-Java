@@ -2,7 +2,7 @@ package _01_fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class _12_stringParaNumero {
+public class _12_StringParaNumero {
     public static void main(String[] args) {
         String valor1 = JOptionPane.showInputDialog("Digite o primeiro número:");
         String valor2 = JOptionPane.showInputDialog("Digite o segundo número:");
