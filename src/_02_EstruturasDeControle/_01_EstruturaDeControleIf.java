@@ -11,7 +11,7 @@ public class _01_EstruturaDeControleIf {
          double nota = 12;
 
          if(nota >= 5){
-            System.out.println("Você entrou no quadro de Honra!!!!");
+            System.out.println("Você entrou no quadro de Honra!!!");
          }
     }
 }
