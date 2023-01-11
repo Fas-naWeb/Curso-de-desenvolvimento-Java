@@ -1,7 +1,5 @@
 package _03_classesEMetodos;
 
-import javax.swing.plaf.basic.BasicTreeUI.SelectionModelPropertyChangeHandler;
-
 public class _05_AtribuicaoPorValorEReferencia {
     /*
      * Valores de variaveis criados com tipos primitivos e criado um espaço de
