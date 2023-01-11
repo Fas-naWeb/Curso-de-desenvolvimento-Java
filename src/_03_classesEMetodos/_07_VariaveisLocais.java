@@ -19,7 +19,7 @@ public class _07_VariaveisLocais {
     // Note que consigo acessar a variavel nome dentro do metodo
     String mostrarIdade(int idade){
         int id = idade;
-        return "Nome:" + nome + "Idade:" + id;
+        return "Nome: " + nome + " Idade: " + id;
     }
 
     //Porem aqui nao consigo acessar a variavel idade de dentro do metodo gera um erro pois nao reconhece a variavel
