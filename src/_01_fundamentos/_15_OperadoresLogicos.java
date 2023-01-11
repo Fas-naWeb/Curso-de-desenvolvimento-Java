@@ -6,18 +6,18 @@ public class _15_OperadoresLogicos {
         boolean f = false;
 
         // Operador lógico E && Ambos tem que ser verdadeiro para resultar verdadeiro
-        System.out.println(v && v);
+        System.out.println(v && true );
         System.out.println(v && f);
         System.out.println(f && v);
-        System.out.println(f && f);
+        System.out.println(f && false);
 
         System.out.println("----------------------------------");
         
         // Operador OU || Basta apenas um ser verdadeiro para que o resultado seja verdadeiro
-        System.out.println(v || v);
+        System.out.println(v || true);
         System.out.println(v || f);
         System.out.println(f || v);
-        System.out.println(f || f);
+        System.out.println(f || false);
         
         System.out.println("----------------------------------");
 
