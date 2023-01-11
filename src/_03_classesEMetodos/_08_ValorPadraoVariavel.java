@@ -16,6 +16,7 @@ public class _08_ValorPadraoVariavel {
            float,double -> Ovalor padrao e 0.0
            boolean -> O valor padrao e false
            char -> '\u0000'
+           String -> null Significa que a variavel nao aponta pra lugar nenhum no caso o objeto String 
            
            Mais quando voce define uma variavel local a mesma nao possui valor padrao voce tem que definir 
            o valor se nao ocorre um erro.
