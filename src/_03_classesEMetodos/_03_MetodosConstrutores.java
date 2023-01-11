@@ -11,7 +11,7 @@ public class _03_MetodosConstrutores {
      String email;
      String telefone;
     /*
-     Aqui voce tem um construtor padrao
+     Aqui voce tem um construtor padrao.
      _03_classesEMetodos(){
 
      }
