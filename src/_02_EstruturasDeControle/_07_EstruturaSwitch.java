@@ -49,6 +49,7 @@ public class _07_EstruturaSwitch {
 
              default:
               System.out.println("Mês Invalido.");
-        }    
+        }   
+        entradas.close(); 
     }
 }
