@@ -19,6 +19,6 @@ public class _14_OperadoresAritmeticos {
         System.out.println(a * b);
         System.out.println(a / b);
         System.out.println(a % b);
-
+        entradas.close();
     }
 }
