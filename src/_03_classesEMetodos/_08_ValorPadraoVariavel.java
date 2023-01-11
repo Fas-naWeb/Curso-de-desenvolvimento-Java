@@ -22,7 +22,7 @@ public class _08_ValorPadraoVariavel {
            o valor se nao ocorre um erro.
         */
 
-        int numero;
+       // int numero;
         int numero2 = 19;
         //System.out.println(numero); // Note que aqui gera um erro pois a variavel local nao foi inicializada.
         System.out.println(numero2); // Note que aqui nao gera um erro pois a variavel local  foi inicializada.
