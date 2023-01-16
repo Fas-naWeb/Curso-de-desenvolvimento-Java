@@ -4,11 +4,7 @@ import java.util.Arrays;
 
 public class _20_TesteDeCompilacao {
     public static void main(String[] args) {
-        System.out.println(args[0]);
-    }
-
-    public static void main(String[] args) {
-    /*
+            /*
       ALGUMAS INFORMAÇÕES SOBRE ARRAYS
     
          # Um array é uma estrutura statica,uma vez criado você não pode mudar seu tamanho.Ele possui 
