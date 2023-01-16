@@ -25,15 +25,7 @@ public class _04_PrimeiroExercicio {
          }
          System.out.println(Arrays.toString(notasAluno));
 
-         //Verificar esse trecho de codigo
-         for(double soma2: notasAluno){
-                this.soma += soma2;
-                System.out.println(this.soma);
-         }
-
-
-
-        
+             
 
         System.out.println();
         entradas.close();
