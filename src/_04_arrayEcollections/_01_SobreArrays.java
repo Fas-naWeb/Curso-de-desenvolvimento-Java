@@ -2,7 +2,21 @@ import java.util.Arrays;
 
 public class _01_SobreArrays {
     public static void main(String[] args) {
-        // Uma das formas de criar um array
+    /*
+      ALGUMAS INFORMAÇÕES SOBRE ARRAYS
+      
+         # Um array é uma estrutura statica,uma vez criado você não pode mudar seu tamanho.Ele possui 
+         # um tamanho fixo.
+
+         # Um array e homogeneo ou seja possui dados do mesmo tipo.(ou só String,ou só int ou só double ....) 
+         
+         # Um array é uma estrutura indexada que inicia por zero
+
+         # Um array é um objeto.
+    */
+
+        // Uma das formas de criar um array 
+        // Significa a quantidade de elementos que esse array tem
         double[] notasAlunos = new double[3];
         System.out.println(Arrays.toString(notasAlunos));
         
