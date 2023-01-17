@@ -3,7 +3,7 @@ package _01_fundamentos;
 import java.util.Scanner;
 
 public class _19_ComparacaoDeString {
-
+    // Sobre comparação de String
 	public static void main(String[] args) {
 		System.out.println("2" == "2"); 
 
