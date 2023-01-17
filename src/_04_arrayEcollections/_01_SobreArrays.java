@@ -12,7 +12,7 @@ public class _01_SobreArrays {
 
          # Um array e homogeneo ou seja possui dados do mesmo tipo.(ou só String,ou só int ou só double ....) 
          
-         # Um array é uma estrutura indexada que inicia por zero
+         # Um array é uma estrutura indexada que inicia por zero..
 
          # Um array é um objeto.
     */
