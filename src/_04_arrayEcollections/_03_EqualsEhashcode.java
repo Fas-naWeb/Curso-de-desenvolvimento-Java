@@ -14,7 +14,7 @@ public class _03_EqualsEhashcode {
         int a = 2;
         int b = a;
         System.out.println(a == b);
-
+        
         /*
           Quando se trata de valor por referencia tipos objeto o mesmo operador == nao
           da o mesmo resultado pois variaveis por referencia possuem enderecos de memoria diferentes.   
@@ -27,5 +27,7 @@ public class _03_EqualsEhashcode {
          // Quando utilizamos o operador == com tipos por referencia o resuldado e falso porque aqui
          // estamos comparando endereços de memoria diferentes.
         System.out.println(obj1 == obj2);
+        System.out.println(obj1.equals(obj2));
+        System.out.println(obj1.equals(obj1));
     }
 }
