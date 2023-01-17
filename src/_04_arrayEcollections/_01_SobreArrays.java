@@ -18,7 +18,7 @@ public class _01_SobreArrays {
     */
 
         // Uma das formas de criar um array 
-        // Significa a quantidade de elementos que esse array tem
+        // 3 Significa a quantidade de elementos que esse array tem
         double[] notasAlunos = new double[3];
         System.out.println(Arrays.toString(notasAlunos));
         
