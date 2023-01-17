@@ -9,10 +9,10 @@ public class _14_OperadoresAritmeticos {
 	        double a = 0;
 	        double b = 0;
 
-	        System.out.println("Entre com um primeiro valor:");
+	        System.out.println("Entre com um primeiro valor: ");
 	        a = entradas.nextDouble();
 
-	        System.out.println("Entre com um segundo valor:");
+	        System.out.println("Entre com um segundo valor: ");
 	        b = entradas.nextDouble();
 
 	        System.out.println(a + b);
