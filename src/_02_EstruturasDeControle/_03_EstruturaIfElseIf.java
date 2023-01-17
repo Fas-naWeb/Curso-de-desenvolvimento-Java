@@ -7,13 +7,13 @@ public class _03_EstruturaIfElseIf {
         
         Scanner entradas = new Scanner(System.in);
         
-        System.out.println("Digite uma nota:");
+        System.out.println("Digite uma nota: ");
         double nota1 = entradas.nextDouble();
 
         if (nota1 > 10 || nota1 < 0) {
-             System.out.println("Nota é invalida!");
+             System.out.println("Nota é invalida! ");
         }else if(nota1 >= 8.1){
-            System.out.println("Conceito A");
+            System.out.println("Conceito A ");
         }else if(nota1 >= 4.1 && nota1 < 8.1){
             System.out.println("Conceito B");
         }else{
