@@ -6,7 +6,7 @@ public class _08_SwitchComBreak {
     public static void main(String[] args) {
         Scanner entradas = new Scanner(System.in);
 
-        System.out.println("Chamar o mes indicado valor de 1 a 12:");
+        System.out.println("Chamar o mes indicado valor de 1 a 12: ");
         int mes2 = entradas.nextInt();
 
         switch(mes2){
