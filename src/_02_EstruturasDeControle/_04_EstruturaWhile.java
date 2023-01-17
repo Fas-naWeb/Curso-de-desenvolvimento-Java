@@ -6,7 +6,7 @@ public class _04_EstruturaWhile {
 
         while(contador <= 10){
 
-            System.out.println("Fabiano Alves Santos");
+            System.out.println("Fabiano Alves Santos ");
             contador++;
         }
     }
