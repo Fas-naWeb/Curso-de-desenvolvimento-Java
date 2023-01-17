@@ -7,7 +7,7 @@ public class _07_EstruturaSwitch {
     public static void main(String[] args) {
         Scanner entradas = new Scanner(System.in);
 
-        System.out.println("Chamar todos os meses anterior,entre com um valor de 1 a 12:");
+        System.out.println("Chamar todos os meses anterior,entre com um valor de 1 a 12: ");
         int mes = entradas.nextInt();
 
         switch(mes){
