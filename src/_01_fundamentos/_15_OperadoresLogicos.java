@@ -12,7 +12,7 @@ public class _15_OperadoresLogicos {
 	        System.out.println(f && v);
 	        System.out.println(f && false);
 
-	        System.out.println("----------------------------------");
+	        System.out.println("-----------------------------------");
 	        
 	        // Operador OU || Basta apenas um ser verdadeiro para que o resultado seja verdadeiro
 	        System.out.println(v || true);
