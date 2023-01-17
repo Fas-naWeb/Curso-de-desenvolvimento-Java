@@ -10,7 +10,7 @@ public class _08_ValorPadraoVariavel {
     public static void main(String[] args) {
         /*
            Variaveis criadas dentro de classe como atributo iniciali-se com valores padrao,no caso
-           quando voce programador nao define nada.
+           quando voce programador nao define nada..
            
            bute,short,int,long -> O valor padrao e 0
            float,double -> Ovalor padrao e 0.0
