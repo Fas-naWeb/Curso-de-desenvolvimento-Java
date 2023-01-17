@@ -4,7 +4,7 @@ public class _06_EstruturaFor {
     public static void main(String[] args) {
 
         for (int i = 0;i <= 10; i++) {
-            System.out.println("Fabiano Alves Santos");
+            System.out.println("Fabiano Alves Santos ");
         }
     }
 }
