@@ -7,7 +7,7 @@ public class _04_MembroClasseVsDeInstancia {
        pertence a classe e não tera uma copia dele no objeto.
      */
      
-     // Atributos da classe
+     // Atributos da classe.
      String nome;
      String email;
      static String telefone;
