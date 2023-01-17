@@ -2,7 +2,7 @@ package _03_classesEMetodos;
 
 public class _06_SobreThis {
     /*
-     * This e um objeto que refencia o proprio objeto
+     * This e um objeto que refencia o proprio objeto.
      */
     String nome;
     String email;
