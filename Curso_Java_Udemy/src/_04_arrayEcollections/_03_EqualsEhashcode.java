@@ -6,7 +6,7 @@ public class _03_EqualsEhashcode {
     public static void main(String[] args) {
         /*
            Essa aula explica como fazer comparação de igualdade tanto com tipos
-           primitivos quanto com tipos objeto.
+           primitivos quanto com tipos objeto..
          */
 
          // Quando utilizamos o operador == com tipos primitivos conseguimos obter
