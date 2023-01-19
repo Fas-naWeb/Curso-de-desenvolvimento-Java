@@ -4,7 +4,7 @@ public class _04_MembroClasseVsDeInstancia {
     /*
        Membros de instância esta associado ao objeto e membros de classe esta associado a classe.
        Quando se cria um atributo e o mesmo e declarado como static,isso significa que esse atributo
-       pertence a classe e não tera uma copia dele no objeto.
+       pertence a classe e não tera uma copia dele no objeto..
      */
      
      // Atributos da classe
