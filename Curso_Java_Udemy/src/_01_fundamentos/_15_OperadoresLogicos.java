@@ -5,7 +5,7 @@ public class _15_OperadoresLogicos {
         boolean v = true;
         boolean f = false;
 
-        // Operador lógico E && Ambos tem que ser verdadeiro para resultar verdadeiro
+        // Operador lógico E && Ambos tem que ser verdadeiro para resultar verdadeiro.
         System.out.println(v && true );
         System.out.println(v && f);
         System.out.println(f && v);
