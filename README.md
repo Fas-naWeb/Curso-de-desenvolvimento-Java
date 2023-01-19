@@ -1,5 +1,5 @@
 <h1 align="center">Curso de Java Udemy</h1>
-<div align="center"><img src="Curso_java_Udemy/recursos/logo5.png" width=250px lign="center"></div>
+<img src="Curso_java_Udemy/recursos/logo5.png" width=250px lign="center">
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS-DO-CURSO&message=%20CONCLUIDO&color=RED&style=for-the-badge)
 
