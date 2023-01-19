@@ -111,3 +111,81 @@ ESTRUTURAS DE CONTROLE
     </a>
   </li>  
 </ol>
+
+CLASSES E METODOS
+<ol>
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_01_ConceitoDeClasse.java">
+    Conceitos de Classe
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_02_ConceitoDeMetodos.java">
+    Conceitos de Metodo
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_03_MetodosConstrutores.java">
+    Metodos Construtores
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_04_MembroClasseVsDeInstancia.java">
+    Classe Vs Instância
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_05_AtribuicaoPorValorEReferencia.java">
+    Atribuição por valor e por Referência
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_06_SobreThis.java">
+    Sobre This
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_07_VariaveisLocais.java">
+    Sobre Variáveis Locais
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_03_classesEMetodos/_08_ValorPadraoVariavel.java">
+    Atribuir valor padrão a variáveis
+    </a>
+  </li>  
+</ol>
+
+ARRAYS E COLEÇÕES
+<ol>
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_04_arrayEcollections/_01_SobreArrays.java">
+    Fundamentos Array
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_04_arrayEcollections/_02_VarrendoUmArrayForeach.java">
+    Foreach em Array
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/blob/main/Curso_Java_Udemy/src/_04_arrayEcollections/_03_EqualsEhashcode.java">
+    Equals e ShashCode
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/Fas-naWeb/CURSO-JAVA-UDEMY/tree/main/Curso_Java_Udemy/src/_04_arrayEcollections">
+    Primeiro Exercício Array
+    </a>
+  </li>
+</ol>
