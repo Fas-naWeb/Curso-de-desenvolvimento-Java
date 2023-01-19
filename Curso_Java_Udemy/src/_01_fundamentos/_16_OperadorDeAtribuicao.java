@@ -12,7 +12,7 @@ public class _16_OperadorDeAtribuicao {
         c -= a;
         c *= b;
         c /= a;
-        c %= 2; // Aqui pode resultar como par ou impar
+        c %= 2; // Aqui pode resultar como par ou impar.
 
         c++; // E o mesmo que dizer c += 1 
 
