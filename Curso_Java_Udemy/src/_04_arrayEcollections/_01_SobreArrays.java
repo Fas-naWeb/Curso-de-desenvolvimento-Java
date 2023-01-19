@@ -6,7 +6,7 @@ public class _01_SobreArrays {
       ALGUMAS INFORMAÇÕES SOBRE ARRAYS
       
          # Um array é uma estrutura statica,uma vez criado você não pode mudar seu tamanho.Ele possui 
-         # um tamanho fixo.
+         # um tamanho fixo..
 
          # Um array e homogeneo ou seja possui dados do mesmo tipo.(ou só String,ou só int ou só double ....) 
          
