@@ -4,7 +4,7 @@ public class _03_MetodosConstrutores {
     /*
        Metodo construtor você pode ter mais de um,se você não escrever nenhum construtor, o java fornece 
        um construtor padrão para você.Um construtor padrao não possui retorno.O construtor quando criado pelo
-       programador tem que ter o mesmo nome da classe.
+       programador tem que ter o mesmo nome da classe..
      */
 
      String nome;
