@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class _02_EstruturaIfElse {
     public static void main(String[] args) {
-
+        //
         String valor = JOptionPane.showInputDialog("Informe o número:");
         int numero = Integer.parseInt(valor);
 
