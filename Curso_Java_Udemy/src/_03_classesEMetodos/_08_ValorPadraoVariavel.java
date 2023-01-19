@@ -19,7 +19,7 @@ public class _08_ValorPadraoVariavel {
            String -> null Significa que a variavel nao aponta pra lugar nenhum no caso o objeto String 
            
            Mais quando voce define uma variavel local a mesma nao possui valor padrao voce tem que definir 
-           o valor se nao ocorre um erro.
+           o valor se nao ocorre um erro..
         */
 
        // int numero;
