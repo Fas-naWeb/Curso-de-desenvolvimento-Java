@@ -3,7 +3,7 @@ package _03_classesEMetodos;
 public class _07_VariaveisLocais {
     /*
         Variaveis global sao declaradas fora de metodos,e variaveis locais estao sempre dentro 
-        de um metodo.   
+        de um metodo..
     */
 
     String nome; // global
