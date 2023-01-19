@@ -3,7 +3,7 @@
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS-DO-CURSO&message=%20CONCLUIDO&color=RED&style=for-the-badge)
 
-<h2>Curso de Desenvolvimento Java Completo</h2>
+<h2>Curso de Desenvolvimento Java Completo Udemy</h2>
 
 # Índice
 FUNDAMENTOS
