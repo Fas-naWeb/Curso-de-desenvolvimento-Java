@@ -9,7 +9,7 @@ public class _05_AtribuicaoPorValorEReferencia {
      * Valores de variaveis criadas por referencia do tipo objeto,e criado um espaco
      * na memoria,porem se voce
      * apontar outra variavel para essa variavel do tipo objeto ela recebera o
-     * endereco dessa variavel.
+     * endereco dessa variavel..
      * verificando com exemplo:
      */
 
