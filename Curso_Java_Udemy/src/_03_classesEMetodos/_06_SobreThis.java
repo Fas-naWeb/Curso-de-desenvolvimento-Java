@@ -12,7 +12,7 @@ public class _06_SobreThis {
      * veja bem aqui se demonstra que voce pode ter mais de um metodo
      * construtor,desde que a assinatura
      * dos metodos sejam diferentes.Note que no primeiro existe um argumento a mais
-     * que e o tel.
+     * que e o tel..
      * Note tambem que as variaveis de instancia recebem os valores que seram
      * passados por parametro corretamente
      * porque os nomes que estao sendo declarados nos parametros sao diferentes dos
