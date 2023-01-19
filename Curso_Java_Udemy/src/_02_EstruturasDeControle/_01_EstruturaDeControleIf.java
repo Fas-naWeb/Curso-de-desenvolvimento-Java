@@ -5,7 +5,7 @@ public class _01_EstruturaDeControleIf {
         /*
          * E uma estrutura de decisão simples apenas verifica se a condição e verdsdeira ou falsa
          * caso seja verdadeira entra e executa o código se não,não faz nada continua na proxima sequencia 
-         * do codigo.
+         * do codigo..
          */
 
          double nota = 12;
