@@ -7,7 +7,7 @@ public class _03_EstruturaIfElseIf {
         
         Scanner entradas = new Scanner(System.in);
         
-        System.out.println("Digite uma nota:");
+        System.out.println("Digite uma nota: ");
         double nota1 = entradas.nextDouble();
 
         if (nota1 > 10 || nota1 < 0) {
