@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 import javax.print.attribute.standard.PrinterLocation;
-
+//
 public class _04_PrimeiroExercicio {
     public static void main(String[] args) {
         int numNotas;
